@@ -50,7 +50,7 @@
 		"@visx/tooltip": "3.3.0",
 		"@xstate/react": "^3.0.0",
 		"ansi-to-html": "0.7.2",
-		"antd": "5.11.0",
+		"antd": "5.26.7",
 		"antd-table-saveas-excel": "2.2.1",
 		"axios": "1.8.2",
 		"babel-eslint": "^10.1.0",
